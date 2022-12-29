@@ -53,6 +53,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## FAQ
 
+##Not Working
+###Install the Chrome Driver First...
+
 ## Is it safe? ❓❓❓❓
 
 Definately the login and password will stored only on your local pc so no worries
